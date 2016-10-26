@@ -1,0 +1,6 @@
+framework module Pods_ASDownloadAnimationView {
+  umbrella header "Pods-ASDownloadAnimationView-umbrella.h"
+
+  export *
+  module * { export * }
+}
